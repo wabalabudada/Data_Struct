@@ -1,0 +1,8 @@
+1
+The_snow_of_Kilimanjaro.txt
+y
+y
+y
+2
+The_snow_of_Kilimanjaro.dat
+n

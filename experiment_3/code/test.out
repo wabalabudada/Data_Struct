@@ -1,0 +1,160 @@
+Question1
+1 to 1:1-->1 , distance:0
+1 to 2:1-->6-->2 , distance:5
+1 to 3:1-->6-->2-->3 , distance:12
+1 to 4:1-->6-->4 , distance:9
+1 to 5:1-->6-->5 , distance:4
+1 to 6:1-->6 , distance:3
+1 to 7:No Path!
+1 to 8:1-->6-->5-->8 , distance:10
+1 to 9:No Path!
+1 to 10:No Path!
+
+Question2
+1 to 1:1-->1 , distance:0
+1 to 2:1-->6-->2 , distance:5
+1 to 3:1-->6-->2-->3 , distance:12
+1 to 4:1-->6-->4 , distance:9
+1 to 5:1-->6-->5 , distance:4
+1 to 6:1-->6 , distance:3
+1 to 7:No Path!
+1 to 8:1-->6-->5-->8 , distance:10
+1 to 9:No Path!
+1 to 10:No Path!
+2 to 1:2-->4-->1 , distance:8
+2 to 2:2-->2 , distance:0
+2 to 3:2-->3 , distance:7
+2 to 4:2-->4 , distance:5
+2 to 5:2-->4-->5 , distance:12
+2 to 6:2-->4-->1-->6 , distance:11
+2 to 7:No Path!
+2 to 8:2-->4-->5-->8 , distance:18
+2 to 9:No Path!
+2 to 10:No Path!
+3 to 1:No Path!
+3 to 2:No Path!
+3 to 3:3-->3 , distance:0
+3 to 4:No Path!
+3 to 5:No Path!
+3 to 6:No Path!
+3 to 7:No Path!
+3 to 8:No Path!
+3 to 9:No Path!
+3 to 10:No Path!
+4 to 1:4-->1 , distance:3
+4 to 2:4-->1-->6-->2 , distance:8
+4 to 3:4-->3 , distance:4
+4 to 4:4-->4 , distance:0
+4 to 5:4-->5 , distance:7
+4 to 6:4-->1-->6 , distance:6
+4 to 7:No Path!
+4 to 8:4-->5-->8 , distance:13
+4 to 9:No Path!
+4 to 10:No Path!
+5 to 1:5-->8-->1 , distance:13
+5 to 2:5-->8-->1-->6-->2 , distance:18
+5 to 3:5-->8-->1-->6-->2-->3 , distance:25
+5 to 4:5-->8-->1-->6-->4 , distance:22
+5 to 5:5-->5 , distance:0
+5 to 6:5-->8-->1-->6 , distance:16
+5 to 7:No Path!
+5 to 8:5-->8 , distance:6
+5 to 9:No Path!
+5 to 10:No Path!
+6 to 1:6-->4-->1 , distance:9
+6 to 2:6-->2 , distance:2
+6 to 3:6-->2-->3 , distance:9
+6 to 4:6-->4 , distance:6
+6 to 5:6-->5 , distance:1
+6 to 6:6-->6 , distance:0
+6 to 7:No Path!
+6 to 8:6-->5-->8 , distance:7
+6 to 9:No Path!
+6 to 10:No Path!
+7 to 1:7-->2-->4-->1 , distance:11
+7 to 2:7-->2 , distance:3
+7 to 3:7-->2-->3 , distance:10
+7 to 4:7-->2-->4 , distance:8
+7 to 5:7-->2-->4-->5 , distance:15
+7 to 6:7-->2-->4-->1-->6 , distance:14
+7 to 7:7-->7 , distance:0
+7 to 8:7-->2-->4-->5-->8 , distance:21
+7 to 9:No Path!
+7 to 10:No Path!
+8 to 1:8-->1 , distance:7
+8 to 2:8-->1-->6-->2 , distance:12
+8 to 3:8-->1-->6-->2-->3 , distance:19
+8 to 4:8-->1-->6-->4 , distance:16
+8 to 5:8-->1-->6-->5 , distance:11
+8 to 6:8-->1-->6 , distance:10
+8 to 7:No Path!
+8 to 8:8-->8 , distance:0
+8 to 9:No Path!
+8 to 10:No Path!
+9 to 1:9-->2-->4-->1 , distance:18
+9 to 2:9-->2 , distance:10
+9 to 3:9-->2-->3 , distance:17
+9 to 4:9-->2-->4 , distance:15
+9 to 5:9-->2-->4-->5 , distance:22
+9 to 6:9-->2-->4-->1-->6 , distance:21
+9 to 7:No Path!
+9 to 8:9-->2-->4-->5-->8 , distance:28
+9 to 9:9-->9 , distance:0
+9 to 10:No Path!
+10 to 1:10-->5-->8-->1 , distance:17
+10 to 2:10-->5-->8-->1-->6-->2 , distance:22
+10 to 3:10-->5-->8-->1-->6-->2-->3 , distance:29
+10 to 4:10-->5-->8-->1-->6-->4 , distance:26
+10 to 5:10-->5 , distance:4
+10 to 6:10-->5-->8-->1-->6 , distance:20
+10 to 7:No Path!
+10 to 8:10-->5-->8 , distance:10
+10 to 9:No Path!
+10 to 10:10-->10 , distance:0
+
+Question3
+1 to 1:1-->1 , distance:0
+2 to 1:2-->4-->1 , distance:8
+3 to 1:No Path!
+4 to 1:4-->1 , distance:3
+5 to 1:5-->8-->1 , distance:13
+6 to 1:6-->4-->1 , distance:9
+7 to 1:7-->2-->4-->1 , distance:11
+8 to 1:8-->1 , distance:7
+9 to 1:9-->2-->4-->1 , distance:18
+10 to 1:10-->5-->8-->1 , distance:17
+
+Question4
+1 to 2:1-->6-->2 , distance:5
+1 to 2:1-->4-->2 , distance:8
+
+Question5
+顶点的数据:
+1  2  3  4  5  6  7  8  9  10
+邻接表:
+0    -1   -1   3    -1   -1   -1   7    -1   -1
+10   0    -1   -1   -1   2    3    -1   10   -1
+-1   7    0    4    -1   -1   -1   -1   -1   -1
+-1   5    -1   0    -1   6    -1   -1   -1   -1   
+-1   -1   -1   7    0    1    -1   -1   -1   4
+3    -1   -1   -1   -1   0    -1   -1   -1   -1
+-1   -1   -1   -1   -1   -1   0    -1   -1   -1
+-1   -1   -1   -1   6    -1   -1   0    -1   -1
+-1   -1   -1   -1   -1   -1   -1   -1   0    -1
+-1   -1   -1   -1   -1   -1   -1   -1   -1   0
+
+Question6
+1  1  1  1  1  1  0  1  0  0
+1  1  1  1  1  1  0  1  0  0
+0  0  1  0  0  0  0  0  0  0
+1  1  1  1  1  1  0  1  0  0
+1  1  1  1  1  1  0  1  0  0
+1  1  1  1  1  1  0  1  0  0
+1  1  1  1  1  1  1  1  0  0
+1  1  1  1  1  1  0  1  0  0
+1  1  1  1  1  1  0  1  1  0  
+1  1  1  1  1  1  0  1  0  1
+
+Question7
+原算法时间(执行100次):0.1214
+堆结构优化后算法时间(执行100次);0.1013
